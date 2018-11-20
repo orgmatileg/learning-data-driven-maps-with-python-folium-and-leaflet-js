@@ -13,11 +13,8 @@ Saya mempelajari nya dari video Traversy Media : [Traversy Media](https://www.yo
 
 Salam,
 
-
 Luqmanul Hakim.
 
-
 Full-Stack JavaScript Developer
-
 
 [Luqmanul.com](luqmanul.com)
